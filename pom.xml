@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Basic project info -->
-    <groupId>ecommerce</groupId>
+    <groupId>com.ecommerce</groupId>
     <artifactId>ecommerce-hibernate</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -44,7 +44,7 @@
             <version>3.1.0</version>
     </dependency>
     </dependencies>
-    <!-- <build>
+    <build>
     <plugins>
         
         <plugin>
@@ -66,5 +66,5 @@
             </configuration>
         </plugin>
     </plugins>
-</build> -->
+</build>
 </project>
